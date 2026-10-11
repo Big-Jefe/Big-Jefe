@@ -1,16 +1,26 @@
-## Hi there 👋
+## Proyectos Destacados
 
-<!--
-**Big-Jefe/Big-Jefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>NOCTILUZ</h3>
+      <a href="https://noctiluz.free.je">
+        <img src="https://img.shields.io/badge/LIVE%20DEMO-0077B5?style=for-the-badge" alt="Live demo">
+      </a>
+      <br>
+      <a href="https://github.com/luisgabu0-gif/noctiluz-ucam">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código">
+      </a>
+      <p>
+        Tienda online completa de <b>moda luminosa</b>, desarrollada en equipo en la <b>UCAM</b>:
+        catálogo con filtros, carrito, pago simulado y panel de administración.
+        Desarrollé la portada, el catálogo y el sistema de reseñas con
+        <b>JavaScript, PHP y MySQL</b>.
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Próximo proyecto</h3>
+      <p>Aquí irá tu siguiente proyecto.</p>
+    </td>
+  </tr>
+</table>
