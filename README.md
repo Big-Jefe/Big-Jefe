@@ -1,26 +1,24 @@
-## Proyectos Destacados
+## Tecnologías
+
+<img src="https://skillicons.dev/icons?i=php,mysql,sqlite,js,html,css,git,github" alt="PHP, MySQL, SQLite, JavaScript, HTML, CSS, Git y GitHub">
+
+## Proyectos
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" width="50%">
       <h3>NOCTILUZ</h3>
-      <a href="https://noctiluz.free.je">
-        <img src="https://img.shields.io/badge/LIVE%20DEMO-0077B5?style=for-the-badge" alt="Live demo">
-      </a>
-      <br>
-      <a href="https://github.com/luisgabu0-gif/noctiluz-ucam">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código">
-      </a>
       <p>
-        Tienda online completa de <b>moda luminosa</b>, desarrollada en equipo en la <b>UCAM</b>:
-        catálogo con filtros, carrito, pago simulado y panel de administración.
-        Desarrollé la portada, el catálogo y el sistema de reseñas con
-        <b>JavaScript, PHP y MySQL</b>.
+        <a href="https://noctiluz.free.je"><img src="assets/boton-web.svg" width="44" height="44" alt="Ver la web de NOCTILUZ" title="Ver web"></a>
+        <a href="https://github.com/luisgabu0-gif/noctiluz-ucam"><img src="assets/boton-codigo.svg" width="44" height="44" alt="Ver el código de NOCTILUZ" title="Código"></a>
       </p>
+      <p>Tienda online de moda luminosa con catálogo, carrito, pago simulado y panel de administración.</p>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Próximo proyecto</h3>
-      <p>Aquí irá tu siguiente proyecto.</p>
-    </td>
+    <!--
+      SEGUNDO PROYECTO: copia el bloque de NOCTILUZ (desde <td hasta </td>), pégalo aquí
+      y cambia el nombre, los dos enlaces (href) y el texto.
+      Los botones redondos (assets/boton-web.svg y assets/boton-codigo.svg) sirven
+      para cualquier proyecto: no hace falta crear otros.
+    -->
   </tr>
 </table>
